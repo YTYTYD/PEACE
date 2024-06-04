@@ -21,24 +21,18 @@ Our data construction process resulted in a comprehensive dataset encompassing 1
 
 # Dataset Documentation
 \textbf{Main Data:}
-\begin{enumerate}
-    \item All\_Data.csv: a .CSV file containing all patients in the dataset, with patient ID.
-\end{enumerate}
+All_Data.csv: a .CSV file containing all patients in the dataset, with patient ID.
+
 
 \textbf{Dictionaries:}
-\begin{enumerate}
-    \item D\_ Numerical.csv: A .csv file containing the units of the numerical features
-    \item D\_ Multiclass.csv: A .csv file containing the meaning of multiclass features
-
-\end{enumerate}
-
+D\_ Numerical.csv: A .csv file containing the units of the numerical features
+D\_ Multiclass.csv: A .csv file containing the meaning of multiclass features
 
 \textbf{Model Training:}
-\begin{enumerate}
-    \item All\_data.json: a .JSON file describing all the data in the dataset.
-    \item Train data: a .CSV file containing the training set of patients.
-    \item Test data: a .CSV file containing the test set of patients.
-\end{enumerate}
+All\_data.json: a .JSON file describing all the data in the dataset.
+Train data: a .CSV file containing the training set of patients.
+Test data: a .CSV file containing the test set of patients.
+
 
 
 # Usage
