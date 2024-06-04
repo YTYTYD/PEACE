@@ -26,5 +26,5 @@ The PEACE is provided as a collection of compressed comma separated value (CSV) 
 
 ## Application access
 1. Complete some training such as the CITI (Collaborative Institutional Training Initiative at the University of Miami) “Data or Specimens Only Research” course as an MIT affiliate, as described in the instructions for completing required CITI training. Or you could provide a GCP certification (药物临床试验质量管理规范培训证书) .
-2. Carefully read the terms of the data agreement[View the file](https://github.com/YTYTYD/PEACE/blob/main/Data%20Use%20Agreement.docx), if you agree and wish to proceed, please send your application to the manager (admanoas@163.com, Jian Xiao).
+2. Carefully read the terms of the [Data Use Agreement](https://github.com/YTYTYD/PEACE/blob/main/Data%20Use%20Agreement.docx), if you agree and wish to proceed, please send your application to the manager (admanoas@163.com, Jian Xiao). Please use an official e-mail address such as .edu 
 3. Final approval of data access is required by Xiangya Hospital's Big Data Management Center.
