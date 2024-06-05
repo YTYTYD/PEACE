@@ -1,0 +1,65 @@
+Feature,Units
+Age,year
+Height,centimeters(cm)
+Weight,kilograms(kg)
+BMI,kilograms per square meter (kg/m?)
+Body Surface Area (BSA),square meters (m?)
+Length of Hospital Stay,day
+Number of Hospital Admissions,times
+White Blood Cell Count,10^9/L
+Red Blood Cell Count,10^12/L
+Hemoglobin,g/L
+Platelet Count,10^9/L
+Hematocrit,%
+Neutrophil Count,10^9/L
+Lymphocyte Count,10^9/L
+Eosinophil Count,10^9/L
+Basophil Count,10^9/L
+Monocyte Percentage,%
+Neutrophil Percentage,%
+Lymphocyte Percentage,%
+Basophil Percentage,%
+Eosinophil Percentage,%
+Mean Corpuscular Volume,fl
+Mean Corpuscular Hemoglobin,pg
+Mean Corpuscular Hemoglobin Concentration,g/L
+Red Cell Distribution Width,%
+Plateletcrit,%
+Mean Platelet Volume,fl
+Total Protein,g/L
+Albumin,g/L
+Globulin,g/L
+Albumin/Globulin Ratio,
+Total Bilirubin,¦Ìmol/L
+Direct Bilirubin,¦Ìmol/L
+Total Bile Acids,¦Ìmol/L
+Alanine Aminotransferase,U/L
+Aspartate Aminotransferase,U/L
+Urea,mmol/L
+Creatinine,¦Ìmol/L
+Uric Acid,¦Ìmol/L
+Duration of Analgesic Control,Hour
+Prev_ERSO,Kind
+Prev_IRSO,Kind
+Prev_ERWO,Kind
+Prev_IRWO,Kind
+Prev_NSAID,Kind
+Prev_A/A,Kind
+Prev_Others,Kind
+Days of Medication Use,Day
+ERSO_Recom,Kind
+IRSO_Recom,Kind
+ERWO_Recom,Kind
+IRWO_Recom,Kind
+NSAIDs_Recom,Kind
+A/A_Recom,Kind
+Others_Recom,Kind
+M1,Point
+M2,Point
+M3,Point
+M4,Point
+M5,Point
+M6,Point
+M7,Point
+M8,Point
+MMAS-8 Total Score,Point
