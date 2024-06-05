@@ -8,8 +8,20 @@ Over half of cancer patients experience long-term pain management challenges. Re
 **See supplementary material for data**
 
 # Usage
-## Format
-The PEACE is provided as a collection of compressed comma separated value (CSV) files.
+## Dataset Documentation
+**Main Data:**
+All_Data.csv: a .CSV file containing all patients in the dataset, with patient ID.
+
+
+**Dictionaries:**
+D\_ Numerical.csv: A .csv file containing the units of the numerical features
+D\_ Multiclass.csv: A .csv file containing the meaning of multiclass features
+
+**Model Training:**
+All\_data.json: a .JSON file describing all the data in the dataset.
+Train data: a .CSV file containing the training set of patients.
+Test data: a .CSV file containing the test set of patients.
+
 
 
 ## Application access
@@ -37,19 +49,6 @@ In the collected data, patient identifiers were removed, and each patient was as
 # Data Description
 Our data construction process resulted in a comprehensive dataset encompassing 103 features, broadly categorized into six groups. The Patient Baseline Information group (50 features) captures demographic and clinical characteristics of the patients, potentially including age, gender, co-morbidities, and disease stage. The Comprehensive Pain Assessment group (15 features) details the extent and characteristics of the patients' pain experience, potentially including pain intensity scores, pain quality descriptors (e.g., visceral pain, somatic pain), and functional limitations. The Previous Analgesic Treatment group (23 features) details the medications and interventions previously used to manage the patients' pain, potentially including medication names, dosages, durations, and routes of administration. The Evaluation of Previous Analgesic Treatment group (5 features) captures the effectiveness and tolerability of prior pain management strategies, potentially including patient-reported outcomes or physician assessments. The Cancer Pain Medication Decision group (9 features) details the rationale behind the selection of specific pain medications for the study participants, potentially including factors like pain type, treatment history, and co-morbidities. The Follow-Up group (1 feature) captures information on patient outcomes after the intervention of interest, potentially including pain response or adverse events.
 
-# Dataset Documentation
-**Main Data:**
-All_Data.csv: a .CSV file containing all patients in the dataset, with patient ID.
-
-
-**Dictionaries:**
-D\_ Numerical.csv: A .csv file containing the units of the numerical features
-D\_ Multiclass.csv: A .csv file containing the meaning of multiclass features
-
-**Model Training:**
-All\_data.json: a .JSON file describing all the data in the dataset.
-Train data: a .CSV file containing the training set of patients.
-Test data: a .CSV file containing the test set of patients.
 
 
 
