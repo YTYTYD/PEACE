@@ -7,6 +7,24 @@ Over half of cancer patients experience long-term pain management challenges. Re
 # For Reviewers
 **See supplementary material for data**
 
+# Usage
+## Format
+The PEACE is provided as a collection of compressed comma separated value (CSV) files.
+
+
+## Application access
+1. Complete some training such as the CITI (Collaborative Institutional Training Initiative at the University of Miami) “Data or Specimens Only Research” course as an MIT affiliate, as described in the instructions for completing required CITI training. Or you could provide a GCP certification (药物临床试验质量管理规范培训证书) .
+2. Carefully read the terms of the [Data Use Agreement](https://github.com/YTYTYD/PEACE/blob/main/Data%20Use%20Agreement.docx), if you agree and wish to proceed, please send your application to the manager (admanoas@163.com, Jian Xiao). Please use an official e-mail address such as .edu 
+3. Final approval of data access is required by Xiangya Hospital's Big Data Management Center.
+
+Once an application has been approved, the researcher will receive emails containing instructions for downloading the dataset.
+
+
+# Code availability
+We present the results for 11 algorithms, which cover machine learning and deep learning algorithms, on the PEACE dataset for both tasks. These algorithms include 5 basic machine learning and neural network models: Decision Trees, Logistic Regression, Random Forests, SVM and MLP; 3 popular gradient boosting decision tree methods: LightGBM, XGBoost , and AdaBoost ; and 3 advanced neural network models designed for time-series data: iTransformer, TransTab, and Mamba.
+The code is available at [ML code](https://github.com/YTYTYD/PEACE/tree/main/Code)
+
+
 
 # Methods
 The data used in this study was collected from two main sources. The first part originated from the Xiangya hospital, encompassing a broad range of patient information, including patient demographics, clinical signs, medication details, physiological parameters, and treatment outcomes. The second part of the data source is our cancer pain online follow-up platform. This platform allows continuous follow-up of cancer pain patients after hospital discharge through patient-initiated reports. It includes patient basic information, pain levels, adverse reactions from medication, dynamic adjustments to medication, treatment of adverse reactions, and other related data. 
@@ -35,19 +53,4 @@ Test data: a .CSV file containing the test set of patients.
 
 
 
-# Usage
-## Format
-The PEACE is provided as a collection of compressed comma separated value (CSV) files.
-
-
-## Application access
-1. Complete some training such as the CITI (Collaborative Institutional Training Initiative at the University of Miami) “Data or Specimens Only Research” course as an MIT affiliate, as described in the instructions for completing required CITI training. Or you could provide a GCP certification (药物临床试验质量管理规范培训证书) .
-2. Carefully read the terms of the [Data Use Agreement](https://github.com/YTYTYD/PEACE/blob/main/Data%20Use%20Agreement.docx), if you agree and wish to proceed, please send your application to the manager (admanoas@163.com, Jian Xiao). Please use an official e-mail address such as .edu 
-3. Final approval of data access is required by Xiangya Hospital's Big Data Management Center.
-
-Once an application has been approved, the researcher will receive emails containing instructions for downloading the dataset.
-
-# Code availability
-We present the results for 11 algorithms, which cover machine learning and deep learning algorithms, on the PEACE dataset for both tasks. These algorithms include 5 basic machine learning and neural network models: Decision Trees, Logistic Regression, Random Forests, SVM and MLP; 3 popular gradient boosting decision tree methods: LightGBM, XGBoost , and AdaBoost ; and 3 advanced neural network models designed for time-series data: iTransformer, TransTab, and Mamba.
-The code is available at [ML code](https://github.com/YTYTYD/PEACE/tree/main/Code)
 
